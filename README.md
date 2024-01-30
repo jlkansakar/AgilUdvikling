@@ -1,0 +1,1 @@
+# This is my repo for Agile Development during the 2nd semester in IT-Architecture at KEA.
