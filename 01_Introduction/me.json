@@ -1,0 +1,7 @@
+{
+    "name": "Jonathan",
+    "age": 22,
+    "residence": "Somewhere in the world",
+    "interests": ["gaming", "music production"],
+    "isAlive": true
+}
