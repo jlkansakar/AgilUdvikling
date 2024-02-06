@@ -1,9 +1,9 @@
 # A header
 ## another header
 
-*This is italics*
+*This is italics. Is it from italy? Who knows.*
 
-**This is bold**
+**This is bold. It's a bold choice**
 
 `console.log("Hello World")`
 
